@@ -1,5 +1,9 @@
 Place the following inside main.css:
 
+h1 {
+    text-align: center;
+}
+
 body {
     margin: 60px auto;
     width: 70%;
