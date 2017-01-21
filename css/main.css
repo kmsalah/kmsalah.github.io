@@ -20,12 +20,19 @@ a {
     text-decoration: none;
     color: #f4CE30;
     font: 'Palatino';
+    left: 0;
+    line-height: 200px;
+    margin: auto;
+    margin-top: -100px;
+    position: absolute;
+    top: 50%;
+    width: 100%;
 }
 a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 3em;
+    font-size: 4em;
     font-family:'Palatino','Helvetica', 'Arial', 'Sans-Serif';
     text-align: center;
     left: 0;
