@@ -4,9 +4,9 @@ body {
     width: 70%;
     background-color: black;
     color: #F4CE30;
+    font: 'Garamond';
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
