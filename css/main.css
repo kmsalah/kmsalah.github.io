@@ -17,6 +17,8 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
+    color: #f4CE30;
+    font: 'Palatino';
 }
 a:hover {
     text-decoration: underline;
