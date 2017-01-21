@@ -22,10 +22,10 @@ a {
 a:hover {
     text-decoration: underline;
 }
-.blurb h1 {
+h1 {
     font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    text-align=: center;
+    font-family:'Palatino','Helvetica', 'Arial', 'Sans-Serif';
+    text-align: center;
 }
 p {
     font-size: 1.5em;
