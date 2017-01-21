@@ -4,6 +4,8 @@ Place the following inside main.css:
 body {
     margin: 60px auto;
     width: 70%;
+    background-color: black;
+    color: #F4CE30;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
