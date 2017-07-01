@@ -4,3 +4,13 @@ body
     color:black;
     font-family:"Museo", "Gotham","Trade Gothic","Helvetica","Avenir";
 }
+
+h1
+{
+font-size:90px;
+}
+
+p
+{
+font-size:25px;
+}
